@@ -35,13 +35,6 @@ I actively work with:
 🎓 **Undergraduate Student in Software Engineering**  
 Currently pursuing my Bachelor's degree with a strong focus on **system architecture**, **backend development**, and **scalable software solutions**.
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tawfiq-alqaidy&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="Tawfiq's Trophies" />
-</p>
 
 ---
 
